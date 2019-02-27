@@ -1,0 +1,13 @@
+<JD023_Director_Type_94_Mod2.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	3.000000	</extent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/director/JD023_Director_Type_94_Mod2_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.116743 -0.070813 -0.148486	</min>
+		<max>	0.116743 0.147800 0.116743	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/director/JD023_Director_Type_94_Mod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JD023_Director_Type_94_Mod2.model>

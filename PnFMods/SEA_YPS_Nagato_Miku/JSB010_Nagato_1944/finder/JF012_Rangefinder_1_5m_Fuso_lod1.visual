@@ -1,0 +1,38 @@
+<JF012_Rangefinder_1_5m_Fuso_lod1.visual>
+	<boundingBox>
+		<min>	-0.062540 0.000000 -0.043917	</min>
+		<max>	0.062232 0.067946 0.043689	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	JF012_Rangefinder_1_5m	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JF012_Rangefinder_1_5m	</node>
+		<geometry>
+			<vertices>	JF012_Rangefinder_1_5m_lod1Shape.vertices	</vertices>
+			<primitive>	JF012_Rangefinder_1_5m_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_JF012	</identifier>
+					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF012_Rangefinder_1_5m_Fuso.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JF012_Rangefinder_1_5m_Fuso_lod1.visual>

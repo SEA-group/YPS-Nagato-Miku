@@ -1,0 +1,8 @@
+<JGS053_140mm_Type3_dead_lod1.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/JGS053_140mm_Type3_dead_lod2	</parent>
+	<extent>	4.0000	</extent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/JGS053_140mm_Type3_dead_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGS053_140mm_Type3_dead_lod1.model>

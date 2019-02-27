@@ -1,0 +1,17 @@
+<JF027_Periscope_2.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF027_Periscope_2_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF027_Periscope_2_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF027_Periscope_2_mg.dds	</Texture>
+	</property>
+</JF027_Periscope_2.mfm>

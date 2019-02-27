@@ -1,0 +1,14 @@
+<Japan_Disk_3Blade_04_alpha.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha_flat.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/common/textures/Japan_Disk_3Blade_04_alpha_a.dds	</Texture>
+	</property>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+</Japan_Disk_3Blade_04_alpha.mfm>

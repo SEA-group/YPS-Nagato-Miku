@@ -1,0 +1,17 @@
+<JGS008_150mm50_Type_41_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/JGS008_150mm50_Type_41_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/JGS008_150mm50_Type_41_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/JGS008_150mm50_Type_41_a.dds	</Texture>
+	</property>
+</JGS008_150mm50_Type_41_skinned.mfm>

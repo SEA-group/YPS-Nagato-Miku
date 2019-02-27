@@ -1,0 +1,13 @@
+<JF027_Periscope_2.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	3.0000	</extent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF027_Periscope_2_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.080584 -0.000406 -0.080063	</min>
+		<max>	0.080132 0.090337 0.080652	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF027_Periscope_2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JF027_Periscope_2.model>

@@ -1,0 +1,17 @@
+<JF012_Rangefinder_1_5m_Fuso.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF012_Rangefinder_1_5m_Fuso_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF012_Rangefinder_1_5m_Fuso_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF012_Rangefinder_1_5m_Fuso_n.dds	</Texture>
+	</property>
+</JF012_Rangefinder_1_5m_Fuso.mfm>

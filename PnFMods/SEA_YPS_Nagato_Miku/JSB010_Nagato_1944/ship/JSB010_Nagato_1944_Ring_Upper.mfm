@@ -1,0 +1,14 @@
+<JSB010_Nagato_1944_Ring_Upper.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha.fx	</fx>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Ring_Upper_a.dds	</Texture>
+	</property>
+</JSB010_Nagato_1944_Ring_Upper.mfm>

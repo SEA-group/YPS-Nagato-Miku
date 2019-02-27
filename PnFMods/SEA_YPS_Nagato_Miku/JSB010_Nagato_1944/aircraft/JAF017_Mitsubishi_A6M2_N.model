@@ -1,0 +1,9 @@
+<JAF017_Mitsubishi_A6M2_N.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/aircraft/JAF017_Mitsubishi_A6M2_N_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/aircraft/JAF017_Mitsubishi_A6M2_N	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JAF017_Mitsubishi_A6M2_N.model>

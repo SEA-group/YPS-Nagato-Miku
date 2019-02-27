@@ -1,0 +1,12 @@
+<JGS053_140mm_Type3_dead_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	55.0000	</extent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.104655 0.000000 -0.090634	</min>
+		<max>	0.104655 0.130357 0.402828	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/JGS053_140mm_Type3_dead_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGS053_140mm_Type3_dead_lod3.model>

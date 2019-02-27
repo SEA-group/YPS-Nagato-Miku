@@ -1,0 +1,38 @@
+<JAS004_Aichi_E13A1_lod2.visual>
+	<boundingBox>
+		<min>	-0.482128 -0.023637 -0.465421	</min>
+		<max>	0.482128 0.287476 0.283011	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	hull	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	hull	</node>
+		<geometry>
+			<vertices>	hull_lod2Shape.vertices	</vertices>
+			<primitive>	hull_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PBS_Plane	</identifier>
+					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/aircraft/JAS004_Aichi_E13A.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JAS004_Aichi_E13A1_lod2.visual>
