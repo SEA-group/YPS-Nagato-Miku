@@ -20,6 +20,24 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
+				<identifier>	UpperRing	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	LowerRing	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MidFront_crack_Bow	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -110,20 +128,36 @@
 			<primitive>	MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	UpperRing	</node>
+		<geometry>
+			<vertices>	SEA_Upper_Ring.vertices	</vertices>
+			<primitive>	SEA_Upper_Ring.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullWire	</identifier>
-					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Wire.mfm	</mfm>
+					<identifier>	SHIPMATX_PBS_Ring_Upper	</identifier>
+					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Ring_Upper.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	2
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	LowerRing	</node>
+		<geometry>
+			<vertices>	SEA_Lower_Ring.vertices	</vertices>
+			<primitive>	SEA_Lower_Ring.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Armor	</identifier>
-					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Armor.mfm	</mfm>
+					<identifier>	SHIPMATX_PBS_Ring_Lower	</identifier>
+					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Ring_Lower.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -136,7 +170,7 @@
 			<primitive>	MidFront_crack_BowShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -150,7 +184,7 @@
 			<primitive>	MidFront_crack_Bow_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/C003_Razlom_old.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -164,7 +198,7 @@
 			<primitive>	MidFront_crack_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -178,7 +212,7 @@
 			<primitive>	MidFront_crack_MidBack_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/C003_Razlom_old.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -192,14 +226,8 @@
 			<primitive>	MidFront_patch_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Hull.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-			<primitiveGroup>	1
-				<material>
-					<identifier>	SHIPMAT_PBS_HullWire	</identifier>
-					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -212,7 +240,7 @@
 			<primitive>	MidFront_patch_MidBack_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouse	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -226,20 +254,8 @@
 			<primitive>	MidFront_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouse	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_DeckHouse.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-			<primitiveGroup>	1
-				<material>
-					<identifier>	SHIPMAT_PBS_LowerRing	</identifier>
-					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Ring_Lower.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-			<primitiveGroup>	2
-				<material>
-					<identifier>	SHIPMAT_PBS_UpperRing	</identifier>
-					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_Ring_Upper.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

@@ -1,7 +1,7 @@
 <JD023_Director_Type_94_Mod2.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	3.000000	</extent>
-	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/director/JD023_Director_Type_94_Mod2_lod1	</parent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/director/lods/JD023_Director_Type_94_Mod2_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.116743 -0.070813 -0.148486	</min>

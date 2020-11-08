@@ -1,7 +1,7 @@
 <JSB010_Nagato_1944_MidBack.model>
 	<castsShadow>	true	</castsShadow>
 	<extent>	7.0000	</extent>
-	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/JSB010_Nagato_1944_MidBack_lod1	</parent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/ship/lods/JSB010_Nagato_1944_MidBack_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-1.147712 -0.666493 -3.511164	</min>

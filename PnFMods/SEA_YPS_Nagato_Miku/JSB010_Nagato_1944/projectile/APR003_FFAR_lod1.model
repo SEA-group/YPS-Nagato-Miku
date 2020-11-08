@@ -1,8 +1,0 @@
-<APR003_FFAR_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/projectile/APR003_FFAR_lod2	</parent>
-	<nodefullVisual>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/projectile/APR003_FFAR_lod1	</nodefullVisual>
-	<extent>	6.0000	</extent>
-	<castsShadow>	false	</castsShadow>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</APR003_FFAR_lod1.model>

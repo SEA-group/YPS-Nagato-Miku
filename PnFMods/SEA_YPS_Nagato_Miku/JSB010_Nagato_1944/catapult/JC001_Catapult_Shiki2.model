@@ -1,7 +1,7 @@
 <JC001_Catapult_Shiki2.model>
 	<castsShadow>	true	</castsShadow>
 	<extent>	5.000000	</extent>
-	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/catapult/JC001_Catapult_Shiki2_lod1	</parent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/catapult/lods/JC001_Catapult_Shiki2_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.092486 -0.000530 -0.554761	</min>

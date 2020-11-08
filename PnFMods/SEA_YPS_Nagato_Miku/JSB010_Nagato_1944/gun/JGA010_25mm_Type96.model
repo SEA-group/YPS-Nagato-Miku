@@ -1,7 +1,7 @@
 <JGA010_25mm_Type96.model>
 	<castsShadow>	false	</castsShadow>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/JGA010_25mm_Type96_lod1	</parent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/lods/JGA010_25mm_Type96_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<materialNames />
 	<visibilityBox>

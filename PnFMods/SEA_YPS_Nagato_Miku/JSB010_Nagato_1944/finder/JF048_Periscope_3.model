@@ -1,7 +1,7 @@
 <JF048_Periscope_3.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF048_Periscope_3_lod1	</parent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/lods/JF048_Periscope_3_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.061531 0.000267 -0.116948	</min>

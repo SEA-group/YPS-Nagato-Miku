@@ -1,6 +1,6 @@
 <JD056_MachineGun_Control_Position.model>
 	<extent>	1.000000	</extent>
-	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/director/JD056_MachineGun_Control_Position_lod1	</parent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/director/lods/JD056_MachineGun_Control_Position_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.032915 -0.000468 -0.029004	</min>

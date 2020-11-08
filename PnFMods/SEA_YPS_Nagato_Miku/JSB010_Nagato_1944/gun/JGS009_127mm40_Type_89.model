@@ -1,7 +1,7 @@
 <JGS009_127mm40_Type_89.model>
 	<castsShadow>	true	</castsShadow>
 	<extent>	3.0000	</extent>
-	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/JGS009_127mm40_Type_89_lod1	</parent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/lods/JGS009_127mm40_Type_89_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.146953 -0.007551 -0.166576	</min>

@@ -1,6 +1,6 @@
 <JAS004_Aichi_E13A1.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/aircraft/JAS004_Aichi_E13A1_lod1	</parent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/aircraft/lods/JAS004_Aichi_E13A1_lod1	</parent>
 	<extent>	5.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

@@ -313,24 +313,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JM004_Searchlight_Control_2	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 -1.3700 0.0000	</row0>
-					<row1>	0.0000 1.3700 0.0000 0.0000	</row1>
-					<row2>	1.3700 0.0000 0.0000 0.0000	</row2>
-					<row3>	-0.1526 1.3629 -1.3444 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM004_Searchlight_Control_2_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 1.3700 0.0000	</row0>
-					<row1>	0.0000 1.3700 0.0000 0.0000	</row1>
-					<row2>	-1.3700 0.0000 0.0000 0.0000	</row2>
-					<row3>	0.1584 1.3629 -1.3444 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_JM009_Signal_Lamp	</identifier>
 				<transform>
 					<row0>	-2.0000 0.0000 0.0000 0.0000	</row0>

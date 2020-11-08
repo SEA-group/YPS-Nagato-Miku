@@ -1,0 +1,8 @@
+<JGA018_25mm_Type96_single_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	10.0000	</extent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/lods/JGA018_25mm_Type96_single_lod3	</parent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/lods/JGA018_25mm_Type96_single_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGA018_25mm_Type96_single_lod2.model>

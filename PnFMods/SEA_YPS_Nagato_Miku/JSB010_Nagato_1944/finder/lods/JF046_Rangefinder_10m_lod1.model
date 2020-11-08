@@ -1,0 +1,13 @@
+<JF046_Rangefinder_10m_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	6.000000	</extent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/lods/JF046_Rangefinder_10m_lod2	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.350013 0.000939 -0.064155	</min>
+		<max>	0.350013 0.157645 0.056500	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/lods/JF046_Rangefinder_10m_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JF046_Rangefinder_10m_lod1.model>
