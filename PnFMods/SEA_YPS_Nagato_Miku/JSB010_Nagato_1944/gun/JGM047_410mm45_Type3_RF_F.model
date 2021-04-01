@@ -1,7 +1,7 @@
 <JGM047_410mm45_Type3_RF_F.model>
 	<castsShadow>	true	</castsShadow>
 	<extent>	6.0000	</extent>
-	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/JGM047_410mm45_Type3_RF_F_lod1	</parent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/lods/JGM047_410mm45_Type3_RF_F_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.399702 0.000000 -0.522336	</min>

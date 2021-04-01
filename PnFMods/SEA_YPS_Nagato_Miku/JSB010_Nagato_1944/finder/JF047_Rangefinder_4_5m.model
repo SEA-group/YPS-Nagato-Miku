@@ -1,7 +1,7 @@
 <JF047_Rangefinder_4_5m.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF047_Rangefinder_4_5m_lod1	</parent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/lods/JF047_Rangefinder_4_5m_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.163415 -0.000376 -0.077408	</min>

@@ -1,0 +1,12 @@
+<JGM048_410mm45_Type3_RF_R_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.376858 0.000000 -0.519584	</min>
+		<max>	0.376858 0.332484 1.142696	</max>
+	</visibilityBox>
+	<extent>	200.0000	</extent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/lods/JGM048_410mm45_Type3_RF_R_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGM048_410mm45_Type3_RF_R_lod3.model>

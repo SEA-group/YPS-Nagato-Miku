@@ -1,0 +1,13 @@
+<JF047_Rangefinder_4_5m_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	9.000000	</extent>
+	<parent>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/lods/JF047_Rangefinder_4_5m_lod3	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.163415 -0.000376 -0.077408	</min>
+		<max>	0.163415 0.074980 0.077406	</max>
+	</visibilityBox>
+	<exporter>	1.5	</exporter>
+	<nodefullVisual>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/lods/JF047_Rangefinder_4_5m_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JF047_Rangefinder_4_5m_lod2.model>
