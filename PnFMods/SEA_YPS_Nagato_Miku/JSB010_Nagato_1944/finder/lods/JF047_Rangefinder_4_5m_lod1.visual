@@ -29,7 +29,7 @@
 			<primitive>	Rangefinder_lodShape1.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF047_Rangefinder_4_5m.mfm	</mfm>
 				</material>
 			</primitiveGroup>

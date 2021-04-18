@@ -38,7 +38,7 @@
 			<primitive>	Turret_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/JGM047_410mm45_Type3_RF_F_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

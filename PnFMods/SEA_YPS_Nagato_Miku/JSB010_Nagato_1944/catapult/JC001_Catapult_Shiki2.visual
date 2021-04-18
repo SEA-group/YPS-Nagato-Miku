@@ -138,7 +138,7 @@
 			<primitive>	CatapultShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/catapult/JC001_Catapult_Shiki2_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -152,7 +152,7 @@
 			<primitive>	Cradle1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/catapult/JC001_Catapult_Shiki2_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -166,7 +166,7 @@
 			<primitive>	Cradle2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult1	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult1	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/catapult/JC001_Catapult_Cradle_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

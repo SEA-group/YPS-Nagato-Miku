@@ -93,7 +93,7 @@
 			<primitive>	DirectorMod2_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director1	</identifier>
+					<identifier>	SHIPMATX_PBS_Director1	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/director/JD023_Director_Type_94_Mod2_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -107,7 +107,7 @@
 			<primitive>	JD022_lodShape1.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/director/JD022_Director_Type_95_Mod1_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

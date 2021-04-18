@@ -47,7 +47,7 @@
 			<primitive>	Turret_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/gun/JGA010_25mm_Type96.mfm	</mfm>
 				</material>
 			</primitiveGroup>

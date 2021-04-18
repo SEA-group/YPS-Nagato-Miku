@@ -29,7 +29,7 @@
 			<primitive>	MachineGun_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/director/JD056_MachineGun_Control_Position.mfm	</mfm>
 				</material>
 			</primitiveGroup>

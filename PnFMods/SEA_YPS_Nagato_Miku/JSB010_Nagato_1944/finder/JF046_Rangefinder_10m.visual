@@ -85,7 +85,7 @@
 			<primitive>	Rangefinder10mShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF046_Rangefinder_10m_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

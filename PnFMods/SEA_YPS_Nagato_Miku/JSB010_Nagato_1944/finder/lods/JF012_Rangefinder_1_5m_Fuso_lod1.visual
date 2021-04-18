@@ -29,7 +29,7 @@
 			<primitive>	JF012_Rangefinder_1_5m_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_JF012	</identifier>
+					<identifier>	SHIPMATX_PBS_JF012	</identifier>
 					<mfm>	PnFMods/SEA_YPS_Nagato_Miku/JSB010_Nagato_1944/finder/JF012_Rangefinder_1_5m_Fuso.mfm	</mfm>
 				</material>
 			</primitiveGroup>
